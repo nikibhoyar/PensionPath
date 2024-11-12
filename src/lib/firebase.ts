@@ -8,8 +8,8 @@ const firebaseConfig = {
   projectId: "pensionpath-c6103",
   storageBucket: "pensionpath-c6103.firebasestorage.app",
   messagingSenderId: "691327467394",
-  appId: "1:691327467394:web:3bbad3e3e8217bb9e5199b",
-  measurementId: "G-DVJ0HXZT74"
+  appId: "1:691327467394:web:221e21732289b0e8e5199b",
+  measurementId: "G-44ZD6J0XQ4"
 };
 
 export const app = initializeApp(firebaseConfig);
